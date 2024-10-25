@@ -54,10 +54,12 @@ go to the releases tab and you can find all menu builds there:
 ## controls
 
 left primary - open menu (VR)
+
 R - open menu (PC)
 
 left trigger - previous page (VR)
 right trigger - next page (VR)
+
 Q - previous page (PC)
 E - next page (PC)
 
