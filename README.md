@@ -7,6 +7,27 @@ unless you have other steam accounts to be unbanned, beware while using this men
 
 ![picture](https://github.com/whimsylmao/planetservices/blob/main/images/picture.png)
 
+## credits
+
+thank you to the following people for helping with the menu:
+
+Me ( AsteroidLord / Whimsy )
+f3 ( Helped make design, and a lot of mods | You can find his menu [here.](https://github.com/Fevps/Rift) )
+JTMC ( Helped make mods , ideas , testing , etc! )
+Cha554 ( Code , Testing & Mod Help )
+Hydra ( Mod Help & Other Help )
+kingofnetflix ( Mod Help )
+
+maf ( Ideas )
+Hyra ( Ideas )
+
+JTMC ( Helped make mods , ideas , testing , etc! )
+MinionKing ( Beta Testing )
+Lucian ( Beta Testing )
+Cha554 ( Code , Testing & Mod Help )
+
+VxV Services & ii's Stupid Menu ( Got some mod ideas from these menus )
+
 ## creators
 
 if your a creator, you can make a menu review and tag @asteroidlordd on it (youtube) to be posted in #menu-reviews channel
@@ -19,6 +40,11 @@ if you use tiktok, tag @asteroidlordyt
 - **undetected**: enjoy a cheat that stays undetected!
 - **frequent updates**: regular improvements and new features to stay updated!
 - **fully open-source**: think its a rat? simply check the code OR just don't use the menu
+
+## code
+
+do not steal any code from the menu and claim it as your own, or just steal it in general without permission.
+you can contact me in the discord server linked at the bottom OR add "asteroidlordfr" on discord. (using the Discord server is more likely to contact me)
 
 ## installation
 
@@ -47,10 +73,9 @@ ask away in the discord server | #chat
 
 # suggestions
 give suggestions in #mod-suggestions
-
 discord can be found at the bottom of this page
 
-happy modding!
+## happy modding!
 
 ## discord
 https://discord.gg/94rAQrWADg
