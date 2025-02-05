@@ -1,9 +1,9 @@
 # planet services
 
-welcome to the planet services cheat menu! this is an 100% open-source project for yet ANOTHER gorilla tag cheat menu..!
+welcome to the planet services cheat menu! this is an 100% open-source project for yet ANOTHER gorilla tag copy DLL cheat menu..!
 
-we are NOT responsible for any bans, using this menu is completely your decision - we make sure everything is undetected, however if you see a moderator OR get reported through meta reporting menu. that is not something we can control!
-unless you have other steam accounts to be unbanned, beware while using this menu
+we are NOT responsible for any bans, using this menu is completely your decision - we make sure everything is undetected, however if you see a moderator and get banned from THAT. that is not something we can control!
+unless you have some sort of mod to be unbanned, beware while using this menu
 
 ![picture](https://github.com/whimsylmao/planetservices/blob/main/images/picture.png)
 
@@ -17,16 +17,12 @@ JTMC ( Helped make mods , ideas , testing , etc! )
 Cha554 ( Code , Testing & Mod Help )
 Hydra ( Mod Help & Other Help )
 kingofnetflix ( Mod Help )
-
-maf ( Ideas )
-Hyra ( Ideas )
+iiDk ( Soundboard Code & Ideas )
 
 JTMC ( Helped make mods , ideas , testing , etc! )
 MinionKing ( Beta Testing )
 Lucian ( Beta Testing )
 Cha554 ( Code , Testing & Mod Help )
-
-VxV Services & ii's Stupid Menu ( Got some mod ideas from these menus )
 
 ## creators
 
@@ -39,7 +35,7 @@ if you use tiktok, tag @asteroidlordyt
 
 - **undetected**: enjoy a cheat that stays undetected!
 - **frequent updates**: regular improvements and new features to stay updated!
-- **fully open-source**: think its a rat? simply check the code OR just don't use the menu
+- **fully open-source**: think its a rat or logger? simply check the code OR just don't use the menu
 
 ## code
 
@@ -53,15 +49,7 @@ go to the releases tab and you can find all menu builds there:
 
 ## controls
 
-left primary - open menu (VR)
-
-R - open menu (PC)
-
-left trigger - previous page (VR)
-right trigger - next page (VR)
-
-Q - previous page (PC)
-E - next page (PC)
+left secondary - open menu
 
 ## support
 
